@@ -1,0 +1,17 @@
+ros-jade-fzi-icl-comm (0.0.2-0trusty) trusty; urgency=high
+
+  * corrected maintainer's email address
+  * moved fzi prefix from roscpp to icl_core
+    this error was introduced before
+  * Contributors: Felix Mauch
+
+ -- Georg Heppner <heppner@fzi.de>  Wed, 23 Nov 2016 23:00:00 -0000
+
+ros-jade-fzi-icl-comm (0.0.1-0trusty) trusty; urgency=high
+
+  * initial commit
+  * Contributors: Felix Mauch
+
+ -- Georg Heppner <heppner@fzi.de>  Wed, 23 Nov 2016 23:00:00 -0000
+
+
